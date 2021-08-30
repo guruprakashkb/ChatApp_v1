@@ -1,0 +1,43 @@
+.sidebar{ 
+    background-color: white;
+    height: 680px;
+    box-shadow: 5px 5px 20px #9c9a9a4d;
+    padding: 10px;
+    padding-left: 4px;
+}
+
+.menu img{
+ margin-left: 60px;
+ margin-top: 30%;
+ border-radius: 60%;
+ width: 60px ;
+  height : 60px;
+ margin-bottom: 5%;
+}
+.menu div{
+  margin-left:  16%;
+  font-size: 12px;
+  font-weight: 600;
+  color: black;
+  margin-bottom: 20%;
+}
+.menu li{
+    font-size: 0.76em;
+    font-weight: 600;
+    padding: 8px;
+    color: gray;   
+    margin-top: 10%;
+  
+}
+
+.sidebar ul {
+  list-style-type: none;
+}
+
+.customCard{
+ margin-bottom: 5%;
+}
+
+.logout{
+  padding-top: 120px !important;
+}
